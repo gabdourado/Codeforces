@@ -41,7 +41,7 @@
 *.dwo
 
 # Text files
-*.Text
+*.txt
 
 # Vscode config
 .vscode/
