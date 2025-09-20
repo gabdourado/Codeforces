@@ -1,3 +1,12 @@
+/*
+    Nome: Gabriel Dourado
+
+    Solução: Essa é relativamente simples. Para cada caso teste, vamos primeiro ver se o tamanho da string supera
+    10 caracteres. Se sim, ela é escrita no formato mostrado: primeiro dígito + (tamanho - 2) + último dígito.
+    Caso não supere, a palavra permanece sem alteração.
+
+*/
+
 #include <bits/stdc++.h>
 
 using namespace std;
