@@ -1,3 +1,10 @@
+/*
+    Nome: Gabriel Dourado
+
+    Solução: 
+
+
+*/
 #include <bits/stdc++.h>
 
 using namespace std;
