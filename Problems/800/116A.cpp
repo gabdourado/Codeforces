@@ -1,4 +1,6 @@
-/*
+/*  
+    Nome: Gabriel Dourado
+    
     Solução: É evidente que a capacidada mínima necessária pode ser calculada observando o número 
     total de pessoas que permanece no trem após cada parada. Por exemplo, para o caso base:
 
