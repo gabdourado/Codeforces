@@ -1,3 +1,12 @@
+/*
+    Nome: Gabriel Dourado
+
+    Solução: Dada a string S, vamos contar a quantidade de letras maiúsculas e minúsculas. Se a quantidade de
+    letras minúsculas for maior ou igual que a de maiúsculas, convertemos para a palavra minúsculo. Caso ocorra
+    o contrário, convertemos para maiúsculo. 
+
+*/
+
 #include <bits/stdc++.h>
 
 using namespace std;
