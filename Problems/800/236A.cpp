@@ -10,7 +10,7 @@
     vamos usar um set para guardar os elementos e ao final, contar a quantidade de elementos, e verirficando se
     é par ou ímpar, mostrar a saída esperada.
 
-    */
+*/
 
 #include <bits/stdc++.h>
 
