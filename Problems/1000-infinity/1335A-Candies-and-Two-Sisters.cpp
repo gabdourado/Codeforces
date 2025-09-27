@@ -22,7 +22,7 @@
    3                                  3
 
    Observe que se n é impar, o quantidade de soluções é a parte inteira de n/2. Já se n é par, a quantidade
-   de soluções é (n/2 - 1).  
+   de soluções é    (n/2 - 1).  
 
 */
 
