@@ -26,8 +26,8 @@
     p / np
 
     Calculado essas componentes de cada brinde, para saber quantos se pode fazer, basta determinar o
-    mínimo entre essas componestes e fazer esse valor dividido por n, pois essa será a aquantidade de
-    brindes.
+    mínimo entre essas componestes e fazer esse valor dividido por n, pois essa será a quantidade de
+    brindes que poderão ser feitos.
 
 */
 
