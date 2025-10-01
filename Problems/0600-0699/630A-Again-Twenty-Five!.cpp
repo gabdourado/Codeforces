@@ -1,18 +1,18 @@
 /*
     Nome: Gabriel Dourado
 
-    Solução: Seria uma zoeira essa questão? É possível provar que para todo n maior que 2, 5^n termina em 25.
-    Queremos porvar que 5^n ≡ 25 (mod 100). Segue a prova por indução:
+    Solução: Seria uma zoeira essa questão? É possível provar que para todo n maior ou igual que 2, 5^n termina 
+    em 25. Queremos provar que 5^n ≡ 25 (mod 100). Segue a prova por Indução:
 
-    Caso base: Para n = 2 temos:
+    Caso Base: Para n = 2, segue que:
     
     5^2 = 25 ≡ 25 (mod 100)
     
-    Hipótese de Indução: Suponhamos que seja verdade para k, onde 2 <= k <= n, logo segue que:
+    Hipótese de Indução: Suponhamos que seja verdade para k, onde k é um inteiro entre 2 e n, logo segue que:
 
     5^k ≡ 25 (mod 100)
 
-    Tese: Queremos mostrar que a congruência é válida para (k+1), ou seja:
+    Passo Indutivo: Queremos mostrar que a congruência é válida para (k+1), ou seja:
     
     5^(k + 1) ≡ 25 (mod 100)
 
