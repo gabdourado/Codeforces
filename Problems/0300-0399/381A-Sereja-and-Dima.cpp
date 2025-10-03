@@ -1,3 +1,11 @@
+/*
+    Nome: Gabriel Dourado
+
+    Solução: Vamos implementar um algoritmo que execute a mesma regra do jogo. S inicia o jogo e retira
+    a maior carta da posição mais a esquerda  - posição 0 - ou da posição mais a direita - posição (size
+    -1) - seguida por D que faz o mesmo. Tudo isso até não ter mais cartas, ou seja, n vezes. 
+
+*/
 #include <bits/stdc++.h>
 
 using namespace std;
